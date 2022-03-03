@@ -11,7 +11,7 @@ This application requires PHP 8 and MySQL to run.
 Clone apps and install the dependencies
 
 ```sh
-git https://github.com/burhanbur/laravel-design-pattern.git
+git clone https://github.com/burhanbur/laravel-design-pattern.git
 cd src
 composer update
 ```
